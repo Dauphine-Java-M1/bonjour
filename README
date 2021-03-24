@@ -1,17 +1,15 @@
-Bonjour
-=======
+# Bonjour
 
 Un programme qui dit "Bonjour".
 
-Compilation
-===========
+# Compilation
 
     make bonjour
 
-Exécution
+# Exécution
 
     ./bonjour
 
-Auteur
-======
+# Auteur
+
 Benjamin Negrevergne
